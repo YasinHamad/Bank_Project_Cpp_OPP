@@ -1,0 +1,12 @@
+Adli6#||#Haddad#||#adli@gmail.com#||#1234567#||#A103#||#1234#||#22.219999
+Jamil#||#Adli#||#Jamil@gmail.com#||#23123123#||#A104#||#1234#||#0.000000
+Lina#||#Loay#||#Lina@gmail.com#||#1234#||#A07#||#125#||#123.000000
+Mazem#||#Kareem#||#Mazin@gmail.com#||#898234#||#A106#||#1234#||#8002.000000
+Lama#||#Karmi#||#1234567#||#lama@gmail.com#||#A107#||#1234#||#1.000000
+Gandi#||#Omran#||#Ghandi@gmail.com#||#1234#||#A108#||#1234#||#11010.000000
+yasin#||#hamad#||#yasin@gmail.com#||#1234566#||#A109#||#1234#||#19000.000000
+othman#||#ali#||#othman@gmail.com#||#1234567#||#A114#||#1234#||#2.200000
+koko#||#also_koko#||#koko@gmail.com#||#1234566#||#f#||#1234#||#1002.200012
+yasin#||#hamad#||#yasin@gmail.com#||#1234567#||#yasin#||#1234#||#11.110000
+exit#||#f#||#f#||#f#||#A105#||#f#||#22.000000
+yasin#||#hamad#||#yasin@gmail.com#||#1234567#||#A110#||#1234#||#1000.000000
