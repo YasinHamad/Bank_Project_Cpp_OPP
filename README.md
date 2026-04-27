@@ -5,7 +5,7 @@ The purpose of this project is :
 - Practice programming fundamentals.  
 - Practice OOP.  
 
-This is the OOP version of -with some additional features- this project [Bank_Project_Cpp]() where I built everything only as functions.  
+This is the OOP version of -with some additional features- this project [Bank_Project_Cpp](https://github.com/YasinHamad/Bank_Project_Cpp) where I built everything only as functions.  
 
 # Demo
 You can watch the project running here [Demo]() I have demonstrated all features in the video.    
